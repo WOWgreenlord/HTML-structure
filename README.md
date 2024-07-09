@@ -67,3 +67,4 @@
 Информация взята из источников:
 - [HTML academy](https://htmlacademy.ru/courses/299/run/17)
 - [htmlbook.ru](https://htmlbook.ru/samhtml/struktura-html-koda)
+- [Всё о метатеге keywords](https://timeweb.com/ru/community/articles/vse-o-meta-tege-keywords)
